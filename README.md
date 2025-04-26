@@ -1,2 +1,1 @@
-# JS-Series-Chai-aur-Code
-A complete learning journey of JavaScript with Chai aur Code
+#Learning JavaScript with the help of [Chai aur Code](https://github.com/hiteshchoudhary)
